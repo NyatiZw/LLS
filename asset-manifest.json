@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LLS/static/css/main.dba64202.chunk.css",
+    "main.js": "/LLS/static/js/main.38ab222d.chunk.js",
+    "main.js.map": "/LLS/static/js/main.38ab222d.chunk.js.map",
+    "runtime-main.js": "/LLS/static/js/runtime-main.814275fe.js",
+    "runtime-main.js.map": "/LLS/static/js/runtime-main.814275fe.js.map",
+    "static/js/2.9e690c8b.chunk.js": "/LLS/static/js/2.9e690c8b.chunk.js",
+    "static/js/2.9e690c8b.chunk.js.map": "/LLS/static/js/2.9e690c8b.chunk.js.map",
+    "index.html": "/LLS/index.html",
+    "precache-manifest.163fba36405001c20f4ab2cb55b2d64f.js": "/LLS/precache-manifest.163fba36405001c20f4ab2cb55b2d64f.js",
+    "service-worker.js": "/LLS/service-worker.js",
+    "static/css/main.dba64202.chunk.css.map": "/LLS/static/css/main.dba64202.chunk.css.map",
+    "static/media/App.scss": "/LLS/static/media/Roboto-Regular.11eabca2.ttf",
+    "static/media/arrow-down.svg": "/LLS/static/media/arrow-down.c3d75740.svg",
+    "static/media/proj1.jpg": "/LLS/static/media/proj1.d6868036.jpg",
+    "static/media/proj2.jpg": "/LLS/static/media/proj2.12207fa0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.814275fe.js",
+    "static/js/2.9e690c8b.chunk.js",
+    "static/css/main.dba64202.chunk.css",
+    "static/js/main.38ab222d.chunk.js"
+  ]
+}
