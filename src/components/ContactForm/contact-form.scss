@@ -1,0 +1,80 @@
+.c-contact {
+	outline: 1px solid grey;
+	h2 {
+		margin-top: 2rem;
+		text-align: center;
+	}
+}
+.c-contact__form {
+	margin-top: 1rem;
+	label,
+	input,
+	textarea {
+		display: block;
+		width: 100%;
+		padding: 0.25rem;
+	}
+	label {
+		margin-top: 0.25rem;
+	}
+	textarea {
+		height: auto;
+	}
+	button {
+		display: block;
+		padding: 0.5rem 2rem;
+		margin-top: 1rem;
+		border: none;
+		outline: none;
+		border-radius: 2px;
+		font-weight: bold;
+		color: white;
+		background-color: rgb(192, 187, 117);
+	}
+}
+//Demo
+body{
+  height: 100%;
+  width: 100%;
+  background: #eee;
+  font-family: 'PT Sans', sans-serif;
+}
+.demo{
+  width: 100%;
+  height: 100%;
+}
+.penName{
+  text-align: center;
+  font-size: 36px;
+}  
+.mainCard{
+  text-align: center;
+  display: block;
+  margin: 60px auto;
+  background-color: white;
+  box-shadow: 0 5px 40px rgba(0,0,0,0.2);
+  width: 90%;
+}  
+.mainCardHeader{
+  background-color: rgb(214, 240, 154);
+  height: 100px;
+  width: 100%;
+}
+.mainCardContent{
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  top: -50px;
+  height: 100%;
+  width: 90%;
+}  
+.miniCard{
+  display: inline-block;
+  padding: 5px;
+  margin: 0 20px 20px 0;
+  background-color: white;
+  height: 300px;
+  width: 250px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
